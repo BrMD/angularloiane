@@ -2,17 +2,17 @@
   "courses": [
     {
       "id": 1,
-      "title": "angular",
+      "name": "angular",
       "category": "frontend"
     },
     {
       "id": 2,
-      "title": "java",
+      "name": "java",
       "category": "backend"
     },
     {
       "id": 3,
-      "title": "algumacoisa",
+      "name": "algumacoisa",
       "category": "seila"
     }
   ]
