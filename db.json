@@ -1,19 +1,19 @@
 {
-  "topics": [
+  "courses": [
     {
       "id": 1,
       "title": "to learn angular",
-      "completed": false
+      "category": "frontend"
     },
     {
       "id": 2,
-      "title": "to learn french",
-      "completed": true
+      "title": "to learn java",
+      "category": "backend"
     },
     {
       "id": 3,
-      "title": "to learn some",
-      "completed": false
+      "title": "to learn algumacoisa",
+      "category": "seila"
     }
   ]
 }
