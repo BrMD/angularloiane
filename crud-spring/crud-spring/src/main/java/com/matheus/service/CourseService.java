@@ -47,7 +47,7 @@ public class CourseService {
      * .map(courseMapper::toDTO)
      * .collect(Collectors.toList());
      * }
-     */
+     */     
 
     public CourseDTO findById(@NotNull @Positive Long id) {
         return courseRepository.findById(id).map(courseMapper::toDTO)
